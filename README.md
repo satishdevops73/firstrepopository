@@ -1,3 +1,4 @@
 # firstrepopository
 
-My first git hub and rep created in batch30
+My first git hub and repo created
+
